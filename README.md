@@ -1,4 +1,4 @@
 # Machine-Learning-Projects
 <br>
 Project List:<br>
-1) Simple Linear Regression : Ice Cream Temperatures v/s Profits
+1) Simple Linear Regression : Temperatures v/s Ice Cream Profits
